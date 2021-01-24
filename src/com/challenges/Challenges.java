@@ -6,7 +6,6 @@ public class Challenges {
 
     public static void main(String[] args) {
         eofChallenge();
-
     }
 
     // Data Type challenge
@@ -57,9 +56,6 @@ public class Challenges {
             i++;
             System.out.println(i + " " + scanner.nextLine());
         }
-
-
-
     }
 
 
